@@ -1,6 +1,6 @@
 ### Hello World, I'm Rumindi 👋
 
-<img align="right" alt="GIF" src="https://github.com/ChamodyaRumindi/ChamodyaRumindi/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 
 <!--
