@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Who am I?
+
+I am an enthusiastic Software Engineer who is willing to accept new challenges in the fields of Computer Science and Software Development. I am a fast learner and an innovative thinker. 🌱 
+### My stats⚡
