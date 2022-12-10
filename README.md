@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World, I'm Rumindi 👋
+
+<img align="right" alt="GIF" src="https://github.com/ChamodyaRumindi/ChamodyaRumindi/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 <!--
 **ChamodyaRumindi/ChamodyaRumindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +20,7 @@ Here are some ideas to get you started:
 
 ### Who am I?
 
-I am an enthusiastic Software Engineer who is willing to accept new challenges in the fields of Computer Science and Software Development. I am a fast learner and an innovative thinker. 🌱 
+I'm a tech enthusiast who is willing to explore new technologies. I love to share knowledge with the rest of the world, and also like to share my code so others can make use of them. 🌱
+
+
 ### My stats⚡
