@@ -22,5 +22,10 @@ Here are some ideas to get you started:
 
 I'm a tech enthusiast who is willing to explore new technologies. I love to share knowledge with the rest of the world, and also like to share my code so others can make use of them. 🌱
 
+### My stats⚡
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRumindi&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRumindi&&exclude_repo=ChamodyaRumindi&layout=compact&theme=dracula" alt="languages"/>
+
 
 
