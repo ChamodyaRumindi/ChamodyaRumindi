@@ -29,6 +29,6 @@ I'm a tech enthusiast who is willing to explore new technologies. I love to shar
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/rumindichamodya
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/rumindichamodya
 
 <br />
