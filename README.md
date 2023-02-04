@@ -3,11 +3,15 @@
 ### 👩🏻‍🦰 Who am I?
  
 I'm a tech enthusiast who is willing to explore new technologies. I love to share knowledge with the rest of the world, and also like to share my code so others can make use of them. 🌱
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
+
+
 - 🔭 I’m currently working on **React JS web project**
 - 🌱 I’m currently learning **machine learning for web development**
 - 📫 How to reach me: **rumindichamodya99@gmail.com**
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
+
 
 <!--
 **ChamodyaRumindi/ChamodyaRumindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  💬Talk with me, I am kinda awesome:
+###  💬 Talk with me, I am kinda awesome:
 <p align="left">
 <a href="https://www.linkedin.com/in/rumindichamodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumindi" height="20" width="20" /></a>&nbsp;&nbsp;    
 </p>  
