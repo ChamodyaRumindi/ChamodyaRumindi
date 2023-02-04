@@ -1,4 +1,8 @@
-### Hello World, I'm Rumindi 👋
+<div align="left">
+   <h3>Hello World, I'm Rumindi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3>  
+</div>
+
+
   
 ### 👩🏻‍🦰 Who am I?
  
