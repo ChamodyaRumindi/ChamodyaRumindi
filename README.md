@@ -28,4 +28,7 @@ I'm a tech enthusiast who is willing to explore new technologies. I love to shar
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRumindi&&exclude_repo=ChamodyaRumindi&layout=compact&theme=dracula" alt="languages"/>
 
 
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
