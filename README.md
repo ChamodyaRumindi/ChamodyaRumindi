@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/rumindichamodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumindi" height="20" width="20" /></a>&nbsp;&nbsp;    
 </p>  
-<br/>
+
 
 ### 🛠 Languages and Tools:
 
